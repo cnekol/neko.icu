@@ -31,11 +31,11 @@ catalog:
   eslint-plugin-astro: ^3.2.1
   eslint-plugin-format: ^2.0.1
   katex: ^0.18.9
-  lint-staged: ^17.5.1
+  lint-staged: ^17.6.0
   prettier-plugin-astro: ^0.14.1
   rehype-katex: ^7.0.1
   remark-math: ^6.0.0
-  sharp: ^0.35.4
+  sharp: ^0.35.5
   simple-git-hooks: ^2.14.0
   typescript: ~6.0.3
-  wrangler: ^4.138.0
+  wrangler: ^4.142.0
